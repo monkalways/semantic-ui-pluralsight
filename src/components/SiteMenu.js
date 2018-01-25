@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Icon, Menu } from 'semantic-ui-react';
+import { Icon, Menu } from 'semantic-ui-react';
 import { Link } from 'react-router-dom';
 
 class SiteMenu extends React.Component {

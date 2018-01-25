@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Icon, Image, Item, Rating } from 'semantic-ui-react';
+import { Card, Icon, Image, Rating } from 'semantic-ui-react';
 
 const eventHeaderStyle = {
     marginBottom: 10
